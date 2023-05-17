@@ -1,0 +1,2056 @@
+[
+  {
+    "sku": "bacon-lovers-burger",
+    "name": "Bacon Lovers Burger",
+    "price": 11.49,
+    "category": "New",
+    "custom_attribute": {
+      "burgerItem": true,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "bacon-lovers-burger-combo",
+    "name": "Bacon Lovers Burger Combo",
+    "price": 15.99,
+    "category": "New",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": true
+    }
+  },
+  {
+    "sku": "bacon-lovers-burger-ultimate-combo",
+    "name": "Bacon Lovers Burger Ultimate Combo",
+    "price": 18.99,
+    "category": "New",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": true
+    }
+  },
+  {
+    "sku": "bacon-lovers-stacker-burger",
+    "name": "Bacon Lovers Stacker Burger",
+    "price": 14.99,
+    "category": "New",
+    "custom_attribute": {
+      "burgerItem": true,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "bacon-lovers-stacker-burger-combo",
+    "name": "Bacon Lovers Stacker Burger Combo ",
+    "price": 19.49,
+    "category": "New",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": true
+    }
+  },
+  {
+    "sku": "bacon-lovers-stacker-burger-ultimate-combo",
+    "name": "Bacon Lovers Stacker Burger Ultimate Combo",
+    "price": 22.49,
+    "category": "New",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": true
+    }
+  },
+  {
+    "sku": "original-fill-up",
+    "name": "Original Fill Up",
+    "price": 6.5,
+    "category": "New",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "wicked-fill-up",
+    "name": "Wicked Fill Up",
+    "price": 6.5,
+    "category": "New",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "mega-classic-bucket",
+    "name": "Mega Classic Bucket",
+    "price": 51.99,
+    "category": "New",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "classic-bucket",
+    "name": "Classic Bucket",
+    "price": 39.99,
+    "category": "New",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "classic-bucket",
+    "name": "Classic Bucket",
+    "price": 39.99,
+    "category": "To Share",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "mega-classic-bucket",
+    "name": "Mega Classic Bucket",
+    "price": 51.99,
+    "category": "To Share",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "xl-bucket",
+    "name": "XL Bucket",
+    "price": 66.49,
+    "category": "To Share",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "jumbo-bucket",
+    "name": "Jumbo Bucket",
+    "price": 73.99,
+    "category": "To Share",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "family-feast",
+    "name": "Family Feast",
+    "price": 49.99,
+    "category": "To Share",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "dinner-for-2",
+    "name": "Dinner for 2",
+    "price": 37.99,
+    "category": "To Share",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "wicked-meal",
+    "name": "Wicked Meal",
+    "price": 47.99,
+    "category": "To Share",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "8-wicked-wings",
+    "name": "8 Wicked Wings",
+    "price": 18.79,
+    "category": "To Share",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "12-wicked-wings",
+    "name": "12 Wicked Wings",
+    "price": 23.79,
+    "category": "To Share",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "20-wicked-wings",
+    "name": "20pc Wicked Wings",
+    "price": 39.99,
+    "category": "To Share",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "promo-boneless-banquet",
+    "name": "Boneless Banquet",
+    "price": 15.49,
+    "category": "Delivery Deals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "promo-bacon-bud",
+    "name": "Bacon Bud",
+    "price": 20.99,
+    "category": "Delivery Deals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "promo-colonels-couple",
+    "name": "Colonel's Couple",
+    "price": 32.99,
+    "category": "Delivery Deals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "promo-game-day-bucket",
+    "name": "Game Day Bucket",
+    "price": 39.99,
+    "category": "Delivery Deals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "promo-sanders-feast",
+    "name": "Sanders Feast",
+    "price": 54.99,
+    "category": "Delivery Deals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "zinger-stinger",
+    "name": "Zinger Stinger",
+    "price": 16.5,
+    "category": "Delivery Deals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "original-fill-up",
+    "name": "Original Fill Up",
+    "price": 6.5,
+    "category": "Individual Meals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "wicked-fill-up",
+    "name": "Wicked Fill Up",
+    "price": 6.5,
+    "category": "Individual Meals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "3pc-quarter-pack",
+    "name": "3pc Quarter Pack",
+    "price": 17.69,
+    "category": "Individual Meals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "zinger-box-meal",
+    "name": "Zinger Box Meal",
+    "price": 18.99,
+    "category": "Individual Meals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "deluxe-quarter-pack",
+    "name": "Deluxe Quarter Pack",
+    "price": 18.49,
+    "category": "Individual Meals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "2pc-quarter-pack",
+    "name": "2pc Quarter Pack",
+    "price": 15.69,
+    "category": "Individual Meals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "colonels-lunch",
+    "name": "Colonel's  Lunch",
+    "price": 9.19,
+    "category": "Individual Meals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "snack-lunch",
+    "name": "Snack Lunch",
+    "price": 8.39,
+    "category": "Individual Meals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "popcorn-chicken-lunch",
+    "name": "Popcorn Chicken Lunch",
+    "price": 7.99,
+    "category": "Individual Meals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "wicked-lunch",
+    "name": "Wicked Lunch",
+    "price": 9.49,
+    "category": "Individual Meals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "sliders-lunch",
+    "name": "Sliders Lunch",
+    "price": 7.49,
+    "category": "Individual Meals",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "bacon-lovers-burger",
+    "name": "Bacon Lovers Burger",
+    "price": 11.49,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": true,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "bacon-lovers-burger-combo",
+    "name": "Bacon Lovers Burger Combo",
+    "price": 15.99,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": true
+    }
+  },
+  {
+    "sku": "bacon-lovers-burger-ultimate-combo",
+    "name": "Bacon Lovers Burger Ultimate Combo",
+    "price": 18.99,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": true
+    }
+  },
+  {
+    "sku": "bacon-lovers-stacker-burger",
+    "name": "Bacon Lovers Stacker Burger",
+    "price": 14.99,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": true,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "bacon-lovers-stacker-burger-combo",
+    "name": "Bacon Lovers Stacker Burger Combo ",
+    "price": 19.49,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": true
+    }
+  },
+  {
+    "sku": "bacon-lovers-stacker-burger-ultimate-combo",
+    "name": "Bacon Lovers Stacker Burger Ultimate Combo",
+    "price": 22.49,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": true
+    }
+  },
+  {
+    "sku": "zinger-stacker-burger",
+    "name": "Zinger Stacker Burger",
+    "price": 13.99,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": true,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "zinger-stacker-combo",
+    "name": "Zinger Stacker Combo",
+    "price": 19.39,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "big-snack-burger",
+    "name": "Big Snack Burger",
+    "price": 6.49,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": true,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "zinger-burger-combo",
+    "name": "Zinger Burger Combo",
+    "price": 15.39,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "big-snack-burger-combo",
+    "name": "Big Snack Burger Combo",
+    "price": 11.39,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "zinger-ultimate-combo",
+    "name": "Zinger Ultimate Combo",
+    "price": 18.89,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "zinger-stacker-ultimate-combo",
+    "name": "Zinger Stacker Ultimate Combo",
+    "price": 22.89,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "big-snack-burger-ultimate-combo",
+    "name": "Big Snack Burger Ultimate Combo",
+    "price": 14.89,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "zinger-burger",
+    "name": "Zinger Burger",
+    "price": 10.99,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": true,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "colonel-burger",
+    "name": "Colonel Burger",
+    "price": 11.29,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": true,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "original-bacon-and-cheese",
+    "name": "Original Bacon & Cheese",
+    "price": 11.49,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": true,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "colonel-burger-combo",
+    "name": "Colonel Burger Combo",
+    "price": 15.69,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "original-bacon-and-cheese-combo",
+    "name": "Original Bacon & Cheese Combo",
+    "price": 15.99,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "colonel-ultimate-combo",
+    "name": "Colonel Ultimate Combo",
+    "price": 19.19,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "original-bacon-and-cheese-ultimate-combo",
+    "name": "Original Bacon & Cheese Ultimate Combo",
+    "price": 23.49,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "tower-burger",
+    "name": "Tower Burger",
+    "price": 12.99,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": true,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "tower-burger-combo",
+    "name": "Tower Burger Combo",
+    "price": 17.39,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "tower-ultimate-combo",
+    "name": "Tower Ultimate Combo",
+    "price": 20.89,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "veggie-burger",
+    "name": "Veggie Burger",
+    "price": 7.99,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": true,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "veggie-burger-combo",
+    "name": "Veggie Burger Combo",
+    "price": 12.39,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "veggie-ultimate-combo",
+    "name": "Veggie Ultimate Combo",
+    "price": 15.89,
+    "category": "Burgers",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "supercharged-twister",
+    "name": "Supercharged Twister",
+    "price": 11.69,
+    "category": "Twisters",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "supercharged-twister-combo",
+    "name": "Supercharged Twister Combo",
+    "price": 13.79,
+    "category": "Twisters",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "supercharged-twister-ultimate-combo",
+    "name": "Supercharged Twister Ultimate Combo",
+    "price": 19.59,
+    "category": "Twisters",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "aioli-twister",
+    "name": "Aioli Twister",
+    "price": 11.69,
+    "category": "Twisters",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "aioli-twister-combo",
+    "name": "Aioli Twister Combo",
+    "price": 13.79,
+    "category": "Twisters",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "aioli-twister-ultimate-combo",
+    "name": "Aioli Twister Ultimate Combo",
+    "price": 19.59,
+    "category": "Twisters",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "pepper-mayo-twister",
+    "name": "Pepper Mayo Twister",
+    "price": 11.69,
+    "category": "Twisters",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "pepper-mayo-twister-combo",
+    "name": "Pepper Mayo Twister Combo",
+    "price": 13.79,
+    "category": "Twisters",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "pepper-mayo-twister-ultimate-combo",
+    "name": "Pepper Mayo Twister Ultimate Combo",
+    "price": 19.59,
+    "category": "Twisters",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "pepper-mayo-flatbread-slider",
+    "name": "Pepper Mayo Slider",
+    "price": 5.69,
+    "category": "Twisters",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "supercharged-slider",
+    "name": "Supercharged Slider",
+    "price": 5.69,
+    "category": "Twisters",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "aioli-flatbread-slider",
+    "name": "Aioli Slider",
+    "price": 5.69,
+    "category": "Twisters",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "cheesy-bbq-slider",
+    "name": "Cheesy BBQ Slider",
+    "price": 5.49,
+    "category": "Twisters",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "wicked-wings-snack-box",
+    "name": "Wicked Wings Snack Box",
+    "price": 5.59,
+    "category": "Snacks",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "snack-burger",
+    "name": "Snack Burger",
+    "price": 4,
+    "category": "Snacks",
+    "custom_attribute": {
+      "burgerItem": true,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "chicken-nugget-snack-box",
+    "name": "Chicken Nugget Snack Box",
+    "price": 5.59,
+    "category": "Snacks",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "popcorn-chicken-snack-box",
+    "name": "Popcorn Chicken Snack Box",
+    "price": 5.59,
+    "category": "Snacks",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "2-secret-recipe-chicken-tenders",
+    "name": "Crispy Tenders",
+    "price": 5.5,
+    "category": "Snacks",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "secret-recipe-chicken-piece",
+    "name": "Secret Recipe Chicken Piece",
+    "price": 3.69,
+    "category": "Snacks",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "mini-popcorn-chicken",
+    "name": "Mini Popcorn Chicken",
+    "price": 4.99,
+    "category": "Snacks",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "6-chicken-nuggets",
+    "name": "6 Chicken Nuggets",
+    "price": 6.99,
+    "category": "Snacks",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "regular-popcorn-chicken",
+    "name": "Regular Popcorn Chicken",
+    "price": 8.69,
+    "category": "Snacks",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "3-wicked-wings",
+    "name": "3 Wicked Wings",
+    "price": 6.29,
+    "category": "Snacks",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "2-secret-recipe-chicken-pieces",
+    "name": "2 Secret Recipe Chicken Pieces",
+    "price": 5.99,
+    "category": "Snacks",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "large-crunchy-slaw",
+    "name": "Large Crunchy Slaw",
+    "price": 6.99,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "regular-chips",
+    "name": "Regular Chips",
+    "price": 4.79,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "large-chips",
+    "name": "Large Chips",
+    "price": 6.99,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "regular-potato-and-gravy",
+    "name": "Regular Potato & Gravy",
+    "price": 4.79,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "large-potato-and-gravy",
+    "name": "Large Potato & Gravy",
+    "price": 6.99,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "regular-coleslaw",
+    "name": "Regular Coleslaw",
+    "price": 4.79,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "large-coleslaw",
+    "name": "Large Coleslaw",
+    "price": 6.99,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "regular-gravy",
+    "name": "Regular Gravy",
+    "price": 4.79,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "large-gravy",
+    "name": "Large Gravy",
+    "price": 6.99,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "bread-roll",
+    "name": "Bread Roll",
+    "price": 2.39,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "6-pack-bread-rolls",
+    "name": "6 Pack Bread Rolls",
+    "price": 6.99,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "secret-recipe-chicken-piece",
+    "name": "Secret Recipe Chicken Piece",
+    "price": 3.69,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "supercharged-sauce",
+    "name": "Supercharged Sauce",
+    "price": 0.89,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "bbq-sauce",
+    "name": "BBQ Sauce",
+    "price": 0.89,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "garlic-aioli-sauce-dipping",
+    "name": "Garlic Aioli Sauce",
+    "price": 0.89,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "tomato-sauce",
+    "name": "Tomato Sauce",
+    "price": 0.89,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "pepper-mayo-sauce",
+    "name": "Pepper Mayo ",
+    "price": 0.89,
+    "category": "Sides",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "cookies-and-cream-mousse",
+    "name": "Cookies & Cream Mousse",
+    "price": 5.79,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "chocolate-mousse",
+    "name": "Chocolate Mousse",
+    "price": 5.79,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "600ml-coke-no-sugar",
+    "name": "600ml Coke Zero Sugar",
+    "price": 4.29,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "600ml-fanta",
+    "name": "600ml Fanta",
+    "price": 4.19,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "330ml-coke",
+    "name": "330ml Coke",
+    "price": 3.79,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "600ml-coke",
+    "name": "600ml Coke",
+    "price": 4.29,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "330ml-coke-no-sugar",
+    "name": "330ml Coke No Sugar",
+    "price": 3.79,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "600ml-sprite",
+    "name": "600ml Sprite",
+    "price": 4.29,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "strawberry-cheesecake",
+    "name": "Strawberry Cheesecake",
+    "price": 4.69,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "330ml-sprite",
+    "name": "330ml Sprite",
+    "price": 3.79,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "750ml-pump-water",
+    "name": "750ml Pump Water",
+    "price": 4,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "15l-coke-no-sugar",
+    "name": "1.5L Coke Zero Sugar",
+    "price": 5.79,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "15l-coke",
+    "name": "1.5L Coke",
+    "price": 5.79,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "15l-vanilla-coke",
+    "name": "1.5L Vanilla Coke",
+    "price": 5.79,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "15l-sprite",
+    "name": "1.5L Sprite",
+    "price": 5.79,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "15l-landp",
+    "name": "1.5L L&P",
+    "price": 5.79,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "15l-fanta",
+    "name": "1.5L Fanta",
+    "price": 5.79,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "15l-kiwi-blue-water",
+    "name": "1.5L Kiwi Blue Water",
+    "price": 5.79,
+    "category": "Drinks & Desserts",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "colonels-finest-20-pack",
+    "name": "Colonel's Finest 20 pack",
+    "price": 47.99,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "colonels-finest-30-pack",
+    "name": "Colonel's Finest 30 pack",
+    "price": 66.99,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "colonels-finest-50-pack",
+    "name": "Colonel's Finest 50 pack",
+    "price": 108.99,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "winging-it",
+    "name": "Winging It",
+    "price": 59.99,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "chicken-and-chips",
+    "name": "Chicken & Chips",
+    "price": 123.99,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "jumbo-chicken-and-chips",
+    "name": "Jumbo Chicken & Chips",
+    "price": 226.99,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "catering-large-chips",
+    "name": "Large Chips",
+    "price": 3.7,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "catering-large-potato-and-gravy",
+    "name": "Large Potato & Gravy",
+    "price": 3.7,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "catering-large-coleslaw",
+    "name": "Large Coleslaw",
+    "price": 3.7,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "catering-6x-bread-rolls",
+    "name": "6x Bread Rolls",
+    "price": 3.7,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "large-crunchy-slaw-catering",
+    "name": "Large Crunchy Slaw",
+    "price": 4.19,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "catering-15l-coke-no-sugar",
+    "name": "1.5L Coke No Sugar",
+    "price": 3.7,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "catering-15l-coke",
+    "name": "1.5L Coke",
+    "price": 3.7,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "catering-15l-coke-zero",
+    "name": "1.5L Coke Zero",
+    "price": 3.7,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "catering-15l-vanilla-coke",
+    "name": "1.5L Vanilla Coke",
+    "price": 3.7,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "catering-15l-sprite",
+    "name": "1.5L Sprite",
+    "price": 3.7,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "catering-15l-landp",
+    "name": "1.5L L&P",
+    "price": 3.7,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "catering-15l-fanta",
+    "name": "1.5L Fanta",
+    "price": 3.7,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "catering-15l-kiwi-blue-water",
+    "name": "1.5L Kiwi Blue Water",
+    "price": 3.7,
+    "category": "Catering",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "nug-life",
+    "name": "Nug Life",
+    "price": 6.99,
+    "category": "Promo Items",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": true,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "boneless-banquet",
+    "name": "Boneless Banquet",
+    "price": 12.49,
+    "category": "Promo Items",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": true,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "bacon-bud",
+    "name": "Bacon Bud",
+    "price": 16.99,
+    "category": "Promo Items",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": true,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "colonels-couple",
+    "name": "Colonel's Couple",
+    "price": 26.99,
+    "category": "Promo Items",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": true,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "game-day-bucket",
+    "name": "Game Day Bucket",
+    "price": 32.99,
+    "category": "Promo Items",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": true,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "bucket-heads",
+    "name": "Bucket Heads",
+    "price": 40.99,
+    "category": "Promo Items",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": true,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "350-snack-burger",
+    "name": "$3.50 Snack Burger",
+    "price": 3.5,
+    "category": "Promo Items",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "2-for-450-tenders",
+    "name": "2 for $4.50 Tenders",
+    "price": 4.5,
+    "category": "Promo Items",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": false,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "ultimate-zinger-pack",
+    "name": "Ultimate Zinger Pack",
+    "price": 15.99,
+    "category": "Promo Items",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "the-colonels-treat",
+    "name": "The Colonel's Treat",
+    "price": 8.99,
+    "category": "Promo Items",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "wicked-6",
+    "name": "Wicked 6",
+    "price": 12.99,
+    "category": "Promo Items",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": false,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "promo-the-proud-crowd",
+    "name": "The Proud Crowd",
+    "price": 43.99,
+    "category": "Promo Items",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": true,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "promo-chicken-feast",
+    "name": "Chicken Feast",
+    "price": 36.99,
+    "category": "Promo Items",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": true,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "promo-tower-power",
+    "name": "Tower Power",
+    "price": 28.99,
+    "category": "Promo Items",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": true,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "promo-poppin-chicken",
+    "name": "Poppin' Chicken",
+    "price": 11.49,
+    "category": "Promo Items",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": true,
+      "goLarge": false
+    }
+  },
+  {
+    "sku": "promo-poppin-tenders",
+    "name": "Poppin' Tenders",
+    "price": 11.99,
+    "category": "Promo Items",
+    "custom_attribute": {
+      "burgerItem": false,
+      "isCustomize": true,
+      "freeDelivery": false,
+      "promoItem": true,
+      "goLarge": false
+    }
+  }
+]
